@@ -11,3 +11,10 @@
 
 ## 链表
 - [反转链表(递归;迭代)](https://github.com/AILINGANGEL/algorithm/issues/2)
+
+## [二叉树](https://github.com/AILINGANGEL/algorithm/issues/3)
+- 先序遍历
+- 中序遍历
+- 后序遍历
+- 层次遍历
+
