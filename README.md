@@ -10,4 +10,4 @@
 - 快排
 
 ## 链表
-- 反转链表(递归;循环)
+- [反转链表(递归;迭代)](https://github.com/AILINGANGEL/algorithm/issues/2)
