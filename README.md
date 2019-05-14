@@ -18,3 +18,6 @@
 - 后序遍历
 - 层次遍历
 
+## 其他
+- [实现strStr](https://github.com/AILINGANGEL/algorithm/issues/4)
+- [实现parseInt](https://github.com/AILINGANGEL/algorithm/issues/5)
