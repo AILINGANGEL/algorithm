@@ -8,6 +8,7 @@
 - 插入排序
 - 归并排序
 - 快排
+- 合并有序数组
 
 ## 链表
 - [反转链表(递归;迭代)](https://github.com/AILINGANGEL/algorithm/issues/2)
